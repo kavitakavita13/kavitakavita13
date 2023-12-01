@@ -1,0 +1,40 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Your Final Project</title>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Lululemon</h1>
+        <img src="C:\Users\kavit\Downloads\mobile mockup.jpg" alt="Mobile mockup">
+        <img src="C:\Users\kavit\Downloads\desktop mockup.png" alt="desktop mockup">
+        <!-- Navigation Menu -->
+        <nav>
+            <ul>
+                <li><a href="#">Lululemon Clothes</a></li>
+                <li><a href="#"> Womens, Mens, Accessories, Footwear</a></li>
+                <li><a href="#">weekdays and weekends</a></li>
+                <li><a href="#">gec@lululemon.com</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Made of 84% nylon and 16% Lycra elastane, Nulux is the fabric Lululemon uses for its Fast and Free line, marketed to people who like cross training. -->
+    <section class="main-content">
+        <!-- Polyester. At least 75% of the polyester we source will be recycled content (with a stretch goal of 100percent) by 2025. -->
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2023 Lululemon</p>
+    </footer>
+
+</body>
+</html>
